@@ -104,7 +104,7 @@ lego_sales %>%
   - #### Answer: Area code '956' has spent the most money on Legos.
   
 
-#### Exercise 9. Come up with a question you want to answer using these data, and write it down. Then, create a data visualization that answers the question, and explain how your visualization answers the question.
+### Exercise 9. Come up with a question you want to answer using these data, and write it down. Then, create a data visualization that answers the question, and explain how your visualization answers the question.
 
 
   - #### My question: Which theme is the most popular among different age groups?
