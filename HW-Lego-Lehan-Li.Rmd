@@ -118,6 +118,6 @@ lego_sales %>%
 ggplot(data = lego_sales, mapping = aes(y = theme)) + geom_bar() + facet_wrap(~age_group, nrow = 1)
 ```
   
-  - #### Answer: According to the visualization, I can see that 'City' is the most popular theme for age 18 and under; 'Nexo Knights' is the most popular for age 19-25; Star Wars is the most popular for age 26-35, and so does for age 36-50, and 51 and above'.
+  - #### Answer: According to the visualization, I can see that 'City' is the most popular theme for age 18 and under; 'Nexo Knights' is the most popular for age 19-25; Star Wars is the most popular for age 26-35, and so does for age 36-50, and 51 and above.
 
 
